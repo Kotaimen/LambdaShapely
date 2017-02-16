@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.idea/
+packaged-template.yaml
+run-package.sh

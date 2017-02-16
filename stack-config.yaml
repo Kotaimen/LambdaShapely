@@ -1,0 +1,8 @@
+Stack:
+  Region: us-east-1
+  StackName: ShapelyTest
+  TemplateBody: packaged-template.yaml
+  Capabilities: [CAPABILITY_IAM]
+  Tags:
+    project: gfw
+
